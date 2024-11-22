@@ -8,7 +8,6 @@ Skills visualizer script sends a get request to a pre-defined url (set to query 
 
 ## The treemap
 The treemap is the final output of the script. It shows most demanded skills (larger square means more demand) and the average salary for that skill (greener field means higher salary).
-![example_treemap] (example_treemap.png)
 
 ## Modules used:
 
